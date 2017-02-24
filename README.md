@@ -1,5 +1,7 @@
-# readmeTips.github.io
-readmeTips.github.io
+README Tips
+===
+
+''Tips to help you crete better, more useful README files for GitHub and elsewhere''
 
 ## Links to helpful pages about README files
 
