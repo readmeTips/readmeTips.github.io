@@ -25,9 +25,10 @@ Claire N Streb [All Hail the README File!]( http://clairenstreb.blogspot.com/201
 <summary>Create a home page auto-magically from README.md</summary>
 
 If you are a GitHub user named %username% and and create a repository at %username%.github.io and add a README.md file,
-Then the README file will be auto-magically be translated into HTML and will display as HTML when you go to `https://%username%.github.io`
+then the README file will be auto-magically be translated into HTML and will display as HTML when you go to `https://%username%.github.io`.
 
-The RADME is a god xample. Go to [readmeTips.github.io]( https://readmeTips.github.io ) to see the result.
+
+This RAEDME is a good example. Go to [readmeTips.github.io]( https://readmeTips.github.io ) to see the result.
 
 
 </details>
