@@ -18,6 +18,8 @@ Patrick Balestra [How to Improve Your GitHub README]( http://blog.patrickbalestr
 
 GitHub [ About READMEs ]( https://help.github.com/articles/about-readmes/ )
 
+18F [Making READMEs readable]( https://pages.18f.gov/open-source-guide/making-readmes-readable/ )
+
 Claire N Streb [All Hail the README File!]( http://clairenstreb.blogspot.com/2015/09/all-hail-readme-file.html )
 
 ## Create a home page auto-magically from README.md
