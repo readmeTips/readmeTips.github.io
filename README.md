@@ -5,11 +5,11 @@ README Tips
 
 ## Links to helpful pages about README files
 
-Wikipedia [README ]( https://en.wikipedia.org/wiki/README )
+Wikipedia [README ]( https://en.wikipedia.org/wiki/README ) 
 - Includes the history of the README
 
 
-Tom Preston-Werner [Readme Driven Development]( http://tom.preston-werner.com/2010/08/23/readme-driven-development.html )
+Tom Preston-Werner [Readme Driven Development]( http://tom.preston-werner.com/2010/08/23/readme-driven-development.html ) 
 - One of the founders of GitHub 
 
 
