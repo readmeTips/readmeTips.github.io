@@ -6,6 +6,7 @@ readmeTips.github.io
 
 Wikipedia [README ]( https://en.wikipedia.org/wiki/README )
 
+Patrick Balestra [How to Improve Your GitHub README]( http://blog.patrickbalestra.com/post/156487921566/how-to-improve-your-github-readme )
 
 
 </details>
