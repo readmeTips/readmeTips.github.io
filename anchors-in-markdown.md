@@ -1,6 +1,6 @@
 <span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]
-( https://readmeTips.github.io/md2html/#../anchors-in-markdown.md "View file as a web page." ) </span>
-<input type=button onclick=window.location.href='https://github.com/jaanga/jaanga.github.io/tree/master/cookbook-html/templates2-html/open-index-or-markdown/';
+( https://readmetips.github.io/md2html/index.html#../anchors-in-markdown.md "View file as a web page." ) </span>
+<input type=button onclick=window.location.href='https://github.com/readmeTips/readmeTips.github.io/blob/master/anchors-in-markdown.md';
 value='You are now in a GitHub web page view - Click this button to view this read me file as source code' >
 
 Anchors in Markdown
