@@ -9,7 +9,7 @@
 <meta name=date content='2017-01-01' >
 </head>
 <body>
-<script src=https://cdnjs.cloudflare.com/ajax/libs/showdown/1.5.5/showdown.min.js ></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/showdown/1.6.4/showdown.min.js ></script>
 <script>
 
 // https://github.com/showdownjs/showdown
@@ -23,6 +23,8 @@
 	init();
 
 	function init() {
+
+		showdown.setFlavor('github');
 
 		if ( location.hash.match( '.md' ) ) {
 
@@ -51,7 +53,8 @@
 
 		contents = contents ? contents : document.body.appendChild( document.createElement( 'div' ) ) ;
 
-		converter = new showdown.Converter( { strikethrough: true, literalMidWordUnderscores: true, simplifiedAutoLink: true, tables: true });
+//		converter = new showdown.Converter( { strikethrough: true, literalMidWordUnderscores: true, simplifiedAutoLink: true, tables: true });
+		converter = new showdown.Converter();
 
 		url = location.hash.slice( 1 );
 
