@@ -1,7 +1,7 @@
 Anchors in Markdown
 ===
 
-[Section 3]( #section-3 )
+[Section 3]( #Section-3 )
 
 ## [Section 1]( #section-1 )
 
