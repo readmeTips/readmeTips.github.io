@@ -1,4 +1,4 @@
-<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://readmetips.github.io/ "View file as a web page." ) </span>
+<div><span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://readmetips.github.io/ "View file as a web page." ) </span></div>
 
 
 README Tips
