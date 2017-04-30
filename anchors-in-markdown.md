@@ -10,9 +10,9 @@ Anchors in Markdown
 
 ## Table of Contents
 
-* [Section 1]( anchors-in-markdown.md#section-1 )
-* [Section 2]( anchors-in-markdown.md#section-2 )
-* [Section 3]( anchors-in-markdown.md#section-3 )
+* [Section 1]( #section-1 )
+* [Section 2]( #section-2 )
+* [Section 3]( #section-3 )
 
 
 ## [Section 1]( #section-1 )

@@ -1,15 +1,15 @@
 README Tips
 ===
 
-**Tips to help you crete better, more useful README files for GitHub and elsewhere**
+**Tips to help you create better, more useful README files for GitHub and elsewhere**
 
 ## Links to helpful pages about README files
 
-Wikipedia [README ]( https://en.wikipedia.org/wiki/README ) 
+Wikipedia [README ]( https://en.wikipedia.org/wiki/README )
 - Includes the history of the README
 
 
-Tom Preston-Werner [Readme Driven Development]( http://tom.preston-werner.com/2010/08/23/readme-driven-development.html )<br>- One of the founders of GitHub 
+Tom Preston-Werner [Readme Driven Development]( http://tom.preston-werner.com/2010/08/23/readme-driven-development.html )<br>- One of the founders of GitHub
 
 
 Stephen Whitmore [ Art of README ]( https://github.com/noffle/art-of-readme )
@@ -32,7 +32,7 @@ then the README file will be auto-magically be translated into HTML and will dis
 This README is a good example. Go to [readmeTips.github.io]( https://readmeTips.github.io ) to see the result.
 
 
-## Markdown Cheat Sheets 
+## Markdown Cheat Sheets
 
 John Gruber [Daring Fireball: Markdown Basics ]( http://daringfireball.net/projects/markdown/basics )
 * The creator of Markdown
