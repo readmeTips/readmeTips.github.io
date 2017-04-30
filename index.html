@@ -21,7 +21,7 @@
 
 	} else if ( protocol === 'https:' ) {
 
-		repo  = location.origin.slice( 8 );
+		repo  = location.host;
 		repo = repo.slice( 0, repo.indexOf( '.' ) );
 
 	}
