@@ -16,21 +16,21 @@
 
 	if ( protocol === 'file:' ) {
 
-		repo  = location.pathname.slice( 42 );
-		repo = repo.slice( 0, repo.indexOf( '.' ) );
+		uuser  = location.pathname.slice( 42 );
+		uuser = uuser.slice( 0, uuser.indexOf( '.' ) );
 
 	} else if ( protocol === 'https:' ) {
 
-		repo = location.host.slice( 0, location.host.indexOf( '.' ) );
+		uuser = location.host.slice( 0, location.host.indexOf( '.' ) );
 
 	}
 
-console.log( 'repo', repo );
+console.log( 'uuser', uuser );
 
 	user = {
-		user : repo,
+		user : uuser,
 		subText : '',
-		repo : repo + '.github.io',
+		repo : uuser + '.github.io',
 		branch : 'master',
 		folder : '',
 		defaultFile : 'README.md'
@@ -317,6 +317,7 @@ console.log( 'repo', repo );
 
 
 // do the following within the above loops...
+
 		if ( location.hash && ( location.hash.includes( '/' ) || location.hash.includes( '.' ) ) )  {
 
 			TOO.getFileSetContents( location.hash.slice( 1 ) );
