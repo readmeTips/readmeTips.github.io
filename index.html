@@ -21,12 +21,11 @@
 
 	} else if ( protocol === 'https:' ) {
 
-		repo  = location.host;
-		repo = repo.slice( 0, repo.indexOf( '.' ) );
+		repo = repo.slice( 0, location.host.indexOf( '.' ) );
 
 	}
 
-console.log( '', repo );
+console.log( 'repo', repo );
 
 	user = {
 		user : repo,
@@ -36,6 +35,8 @@ console.log( '', repo );
 		folder : '',
 		defaultFile : 'README.md'
 	};
+
+	location.hash = 'README.md';
 
 </script>
 <script >
@@ -286,7 +287,8 @@ console.log( '', repo );
 			item = items[ i ];
 
 			if ( item.type === 'dir' ) {
-// make highlighting full width. see below
+
+// to do: make highlighting full width. see below
 				menuItems.innerHTML +=
 					'<a href=JavaScript:location.hash="' + item.path + '";TOO.setMenuDefault("' + item.path  + '"); style=width:100%;  > 🗀 ' + item.name  + '</a>' + b +
 				'';
