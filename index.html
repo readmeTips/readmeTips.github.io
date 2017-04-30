@@ -18,13 +18,20 @@
 
 		repo  = location.pathname.slice( 42 );
 		repo = repo.slice( 0, repo.indexOf( '.' ) );
-console.log( '', repo );
+
+	} else if ( protocol === 'https:' ) {
+
+		repo  = location.pathname.slice( 2 );
+		repo = repo.slice( 0, repo.indexOf( '.' ) );
 
 	}
+
+console.log( '', repo );
+
 	user = {
 		user : repo,
 		subText : '',
-		repo : repo2 + '.github.io',
+		repo : repo + '.github.io',
 		branch : 'master',
 		folder : '',
 		defaultFile : 'README.md'
