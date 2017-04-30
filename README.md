@@ -1,10 +1,11 @@
-<div><span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://readmetips.github.io/ "View file as a web page." ) </span></div>
 
 
 README Tips
 ===
 
 **Tips to help you create better, more useful README files for GitHub and elsewhere**
+
+## https://github.com/readmeTips/readmeTips.github.io
 
 ## Links to helpful pages about README files
 
