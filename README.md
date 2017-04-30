@@ -1,13 +1,12 @@
-<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://readmetips.github.io/ "View file as a web page." ) </span>
-<div><input type=button onclick=window.location.href='https://github.com/readmeTips/readmeTips.github.io ';
-value='You are now in a GitHub web page view - Click this button to view this read me file as source code' ></div>
 
 README Tips
 ===
 
 **Tips to help you create better, more useful README files for GitHub and elsewhere**
 
-## [https://github.com/readmeTips/readmeTips.github.io]( https://github.com/readmeTips/readmeTips.github.io )
+### View as source code: [https://github.com/readmeTips/readmeTips.github.io]( https://github.com/readmeTips/readmeTips.github.io )
+
+### View as web page: [https://readmeTips.github.io]( https://readmeTips.github.io )
 
 ## Links to helpful pages about README files
 
