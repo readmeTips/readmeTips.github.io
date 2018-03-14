@@ -36,6 +36,9 @@ Claire N Streb [All Hail the README File!]( http://clairenstreb.blogspot.com/201
 
 GitHub: [Open Source Guides]( https://opensource.guide/starting-a-project/#writing-a-readme )
 
+Richard Littauer [Standard Readme]( https://github.com/RichardLitt/standard-readme )
+
+
 
 ## Create a home page auto-magically from README.md
 
