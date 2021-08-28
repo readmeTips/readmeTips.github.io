@@ -1,44 +1,45 @@
-# README Tips
+# README important Tips
 
 
-This GitHub organization and repository has a single, simple mission: to help you create better, more useful README files for use in GitHub and elsewhere
+This GitHub organization and repository has a single and a very simple mission: just to help you to create better and more useful README files for using in GitHub and elsewhere
 
 ## Viewing this file
 
-View this file as source code:
+ Click the link to View this file as source code:
 ###  [https://github.com/readmeTips/readmeTips.github.io]( https://github.com/readmeTips/readmeTips.github.io )
 
-View this file as a web page using GitHub Pages:
+  
+ Click the link to View this file as a web page using GitHub Pages:
 ###  [https://readmeTips.github.io]( https://readmeTips.github.io )
 
 
-## Essential tips for a nice readme
+## Essential tips for writing a nice readme
 
-* Assume you are reading your readme for the first time
-* Assume you know nothing about
+* Assume that you are reading your readme for the first time
+* Assume that you know nothing about
 	* the project
 	* the language it is written in
 	* the dependencies
 	* the intended audience
 	* the features and benefits you provide
 	* the history of the project
-	* the people involved
+	* the people involved in the project
 	* the monetization
-* Assume you have never seen your work at work
+* Assume that you have never seen your work at your job
 	* Provide a graphic
 	* Link directly to an online working version
-* Assume people want to use your work
+* Assume that people want to use your work
 	* Provide links to your license
-* Assume you are also wildly popular
-	* Have something for people what visit very regularly
+* Assume that you are also wildly popular
+	* Have something for people who visit you often. 
 
 ## Links to helpful pages about README files
 
 
-Wikipedia [README ]( https://en.wikipedia.org/wiki/README )
+Wikipedia [README]( https://en.wikipedia.org/wiki/README )
 
 * Includes the history of the README
-* Explains the use of uppercase
+* Explains the use of uppercase letters
 
 Tom Preston-Werner [Readme Driven Development]( http://tom.preston-werner.com/2010/08/23/readme-driven-development.html )
 
@@ -72,8 +73,8 @@ Richard Littauer [Standard Readme]( https://github.com/RichardLitt/standard-read
 
 ## Create a home page auto-magically from README.md
 
-If you are a GitHub user named %username% and and create a repository at %username%.github.io and add a README.md file,
-then the README file will be auto-magically be translated into HTML and will display as HTML when you go to `https://%username%.github.io`.
+If you are a GitHub user named %username% and create a repository at %username%.github.io and add a README.md file,
+then the README file will be auto-magically be translated into HTML and it will display as HTML when you go to `https://%username%.github.io`.
 
 This README is a good example. Go to [readmeTips.github.io]( https://readmeTips.github.io ) to see the result.
 
